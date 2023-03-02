@@ -1,0 +1,64 @@
+.fotitos{
+    display:flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fotitos img{
+    max-width: 50%;
+    width: 300px; height: 350px;
+}
+
+#opcionesdidi li{
+   
+    display: inline;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-botton: 5px;
+    color: aliceblue;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(38, 38, 38);
+}
+
+#inicioo{
+    background-color: rgb(253, 246, 236);
+}
+
+.contenedorr{
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+}
+
+#inicio{
+    background-color: black;
+}
+
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+h1{
+    color: aliceblue;
+    
+}
+
+.h2{
+    color: black;
+    justify-content: center;
+    font-size: 20px;
+}
+
+p{
+    color: aliceblue;
+    align-items: center;
+}
+
